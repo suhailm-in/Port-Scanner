@@ -1,0 +1,31 @@
+------------------------------------------------------------
+                     Port Scan Results                      
+------------------------------------------------------------
+
+Scan Date: 2023-07-12
+Scan Time: 17-00-38 UTC
+
+Host: METASPLOITABLE
+IP Address: 192.168.191.129
+
+------------------------------------------------------------
+
+Status: Host is up
+Latency: 2.269s
+
+Starting port scan for METASPLOITABLE...
+
+PORT      STATE       SERVICE
+80        open        http
+443       filtered    https
+22        open        ssh
+21        open        ftp
+25        open        smtp
+53        open        dns
+110       filtered    pop3
+143       filtered    imap
+3389      filtered    ms-wbt-server
+445       open        microsoft-ds
+3306      open        mysql
+
+PortScan complete for METASPLOITABLE.
