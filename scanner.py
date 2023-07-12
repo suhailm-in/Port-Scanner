@@ -27,5 +27,5 @@ def portScan(targetHost, targetPorts):
 
 if __name__ == '__main__':
     ip_add = input("Enter IP address: ")
-    port_list = [80, 443, 22, 21, 25, 53, 110, 143, 3389, 445]
+    port_list = list(range(1, 1001))
     portScan(ip_add, port_list)
