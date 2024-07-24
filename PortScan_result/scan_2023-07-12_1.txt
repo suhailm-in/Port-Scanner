@@ -6,7 +6,7 @@ Scan Date: 2023-07-12
 Scan Time: 17-00-38 UTC
 
 Host: METASPLOITABLE
-IP Address: 192.168.191.129
+IP Address: 192.168.19.129
 
 ------------------------------------------------------------
 
